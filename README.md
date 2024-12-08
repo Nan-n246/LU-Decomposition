@@ -12,6 +12,7 @@ To write a program to find the LU Decomposition of a matrix.
 2. Get input from user and print Land U matrix by 'print'
 3. Define a package  as "from scipy.linalg import lu_factor,lu_solve"and create the
   variable as 'x' include the package in the variable.
+
 4.print the variable 'x' 
    
 
